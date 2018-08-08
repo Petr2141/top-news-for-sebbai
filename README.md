@@ -23,10 +23,10 @@ Task:
 
 # Built With
   - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/)
-  -- [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
-  -- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-  -- [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/)
-  -- [Paging library ](https://developer.android.com/topic/libraries/architecture/paging/)
+    - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+    - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+    - [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/)
+    - [Paging library ](https://developer.android.com/topic/libraries/architecture/paging/)
   - [Retrofit 2](http://square.github.io/retrofit/)
   - [GSON](https://github.com/google/gson)
 
